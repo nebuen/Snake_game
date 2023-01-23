@@ -5,6 +5,12 @@
 This project simulates a Snake Game. It is written in Python and uses the turtle library to display the game on the screen. The game has a snake that the player controls to move around and eat food, which increases the score and the length of the snake. The game also has a scoreboard that keeps track of the score and the high score. The game ends when the snake collides with the wall or its own tail. The project consists of 4 main files:
 <br />
 
+<h2>Language and Modules</h2>
+- <b>Python </b>
+- <b>Turtle </b>
+- <b>Random </b>
+<br />
+
 <h2>Files</h2>
 
 - <b> `menu.py` - is the entry point of the program, it sets up the screen, creates instances of the Snake, Food, and Scoreboard classes, and uses them to handle user input and interactions, such as moving the snake, detecting collisions, updating the score, and resetting the game..</b>
